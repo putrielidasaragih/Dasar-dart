@@ -1,0 +1,15 @@
+main(){
+    // membuat dasar dart dengan tipe data
+    String nama = "Putri Elida";
+    int umur = 20;
+    double tinggi = 145;
+    bool isMenikah = false;
+
+    // membuat dasar dart dengan kata kunci var
+    var alamat = "Medan, Indonesia";
+
+    // mencetak variabel
+    print("Nama saya $nama. Umur $umur tahun. Tinggi sekitar $tinggi cm.");
+    print("Menikah: $isMenikah");
+    print("Alamat: $alamat");
+}
